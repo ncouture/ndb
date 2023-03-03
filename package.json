@@ -37,7 +37,7 @@
   "devDependencies": {
     "chrome-devtools-frontend": "1.0.672485",
     "eslint": "^5.16.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "rimraf": "^2.6.3",
     "terser": "^3.17.0"
   }
